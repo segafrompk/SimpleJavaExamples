@@ -1,3 +1,4 @@
+/* Simple program for doing Caesar cyphering of given strings */
 import java.util.Scanner;
 
 public class crypto {
